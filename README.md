@@ -46,6 +46,4 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 1. <Pre>
    coding
    <Pre/>
-C. <Pre>
-   foo
-   <Pre/>
+1. <Pre> foo <Pre/>
