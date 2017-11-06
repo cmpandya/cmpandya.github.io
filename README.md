@@ -38,10 +38,14 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
 1. Robot 
+
    ![robot](https://user-images.githubusercontent.com/33423010/32448588-4b7fe5de-c2dd-11e7-821f-180acc5754b5.JPG)
    
 1. Future
 
 1. <Pre>
    coding
+   <Pre/>
+C. <Pre>
+   foo
    <Pre/>
