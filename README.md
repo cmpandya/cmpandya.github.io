@@ -43,7 +43,4 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
    
 1. Future
 
-1. <Pre>
-   coding
-   <Pre/>
-1. <Pre> foo <Pre/>
+1. <Pre> Thank You! <Pre/>
